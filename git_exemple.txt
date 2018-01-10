@@ -6,4 +6,7 @@ ok alors je vais encore essayer...
 
 je re test car hier c'était pas une grande reussite.
 
-C'est bon j'ai enfin reussi! 
+C'est bon j'ai enfin reussi!
+
+test de conflict modifié dans le master et maintenant dans la branche kao! 
+
